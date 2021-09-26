@@ -25,7 +25,7 @@ I can Merge Multiple Videos in One Video. Video Formats should be same.
 
 Made by Vanajakshi
 """
-    
+    CAPTION = "Video Merged by @{}\n\nMade by Vanajakshi"
     PROGRESS = """
 Percentage : {0}%
 Done: {1}
